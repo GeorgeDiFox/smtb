@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smtb", "smtb\smtb.csproj", "{17558935-E1EF-4F2E-943C-84DD8D5533CD}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fishlib", "fishlib\fishlib.fsproj", "{4A24A0B0-557B-48B5-A2A2-02D9B5B517A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17558935-E1EF-4F2E-943C-84DD8D5533CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17558935-E1EF-4F2E-943C-84DD8D5533CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17558935-E1EF-4F2E-943C-84DD8D5533CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17558935-E1EF-4F2E-943C-84DD8D5533CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A24A0B0-557B-48B5-A2A2-02D9B5B517A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A24A0B0-557B-48B5-A2A2-02D9B5B517A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A24A0B0-557B-48B5-A2A2-02D9B5B517A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A24A0B0-557B-48B5-A2A2-02D9B5B517A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C840B201-AEF2-48A2-AA2C-26FAD0FAD05C}
+	EndGlobalSection
+EndGlobal
